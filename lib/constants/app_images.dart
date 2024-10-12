@@ -1,0 +1,47 @@
+import 'package:flutter/material.dart';
+
+class AppImages{
+  static const String imgFolder = 'asset/folder.png';
+  static const String imgGrid = 'asset/grid.png';
+  static const String imMe = 'asset/me.png';
+  static const String imgMusic = 'asset/music.png';
+  static const String imgPlay = 'asset/play.png';
+  static const String imgSearch = 'asset/search.png';
+  static const String imgTitle = 'asset/title.png';
+  static const String imgVideo = 'asset/video.png';
+  static const String imgWp = 'asset/wp.png';
+  static const String imgSort = 'asset/sort.png';
+  static const String imgBack1 = 'asset/back1.png';
+  static const String imagHead = 'asset/image1.png';
+  static const String imgStar = 'asset/image2.png';
+  static const String imgLock = 'asset/image3.png';
+  static const String imgAdd = 'asset/image4.png';
+  static const String imgRename = 'asset/image5.png';
+  static const String imgDelete = 'asset/image6.png';
+  static const String imgInfo = 'asset/image7.png';
+  static const String imgShare = 'asset/image8.png';
+  static const String imgLanguage = 'asset/image9.png';
+  static const String imgPrivate = 'asset/image10.png';
+  static const String imgRate = 'asset/image11.png';
+  static const String imgShareApp = 'asset/image12.png';
+  static const String imgPrivacy = 'asset/image13.png';
+  static const String imgTransPlay = 'asset/transPlay.png';
+  static const String imgTransFolder = 'asset/transFolder.png';
+  static const String imgPause = 'asset/pause.png';
+  static const String imgNext = 'asset/next.png';
+  static const String imgPrevious = 'asset/previous.png';
+  static const String imgVolume = 'asset/volume.png';
+  static const String imgVolumeOff = 'asset/volumeOff.png';
+  static const String imgUnlock = 'asset/unlock.png';
+  static const String imgonlyLock = 'asset/onlyLock.png';
+  static const String imgPlay2 = 'asset/play_2.png';
+  static const String imgDownload = 'asset/download.png';
+  static const String imgSplash = 'asset/splash.png';
+  static const String imgIntro1 = 'asset/intro1.png';
+  static const String imgIntro2 = 'asset/intro2.png';
+  static const String imgIntro3 = 'asset/intro3.png';
+  static const String imgLogo = 'asset/Logo.png';
+  static const String imgPlaylist = 'asset/playlist.png';
+  static const String imgSpeed = 'asset/speed.png';
+  static const String imgRotation = 'asset/rotation.png';
+}

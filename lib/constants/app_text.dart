@@ -1,0 +1,53 @@
+import 'package:flutter/material.dart';
+
+class AppText{
+  static const String video = "VIDEO";
+  static const String folder = "FOLDER";
+  static const String allow = "ALLOW";
+  static const String appId = "com.videoplayer.allformatplayer.hd.video.player";
+  static const String rename = "Rename";
+  static const String delete = "Delete";
+  static const String fileInfo = "File info";
+  static const String share = "Share";
+  static const String play = "Play";
+  static const String hdVideoPlayback = "HD Video Playback";
+  static const String shareApp = "Share App";
+  static const String privacyPolicy = "Privacy policy";
+  static const String rateUs = "Rate us";
+  static const String wpStatusSaver = "WP Status Saver";
+  static const String allVideo = "All Video";
+  static const String directory = "Directory";
+  static const String language = "Language";
+  static const String storagePermission = "STORAGE PERMISSION";
+  static const String back = "Please click BACK again to exit";
+  static const String sortBy = "Sort By";
+  static const String name = "Name";
+  static const String date = "Date";
+  static const String ztoa = "From Z to A";
+  static const String atoz = "From A to Z";
+  static const String oton = "From old to new";
+  static const String ntoo = "From new to old";
+  static const String cancel = "CANCEL";
+  static const String download = "DOWNLOAD";
+  static const String noStatus = "No status found!";
+  static const String noVideo = "No video found!";
+  static const String videoDownload = "Video download successfully!!";
+  static const String ok = "OK";
+  static const String file = "File";
+  static const String location = "Location";
+  static const String length = "Length";
+  static const String enterName = "Enter a name";
+  static const String size = "Size";
+  static const String allowPermission = "Allow Permission";
+  static const String welcome = "WELCOME TO VIDEOPLAYER";
+  static const String popularVideo = "Popular video player supports\n all kinds of formats";
+  static const String previous = "Skip";
+  static const String next = "Next";
+  static const String done = "Done";
+  static const String loading = "Loading Ads...";
+  static const String permissionRequired = "Permission is required to show whatsapp status images and videos and download this. please allow permission to access whatsapp status.";
+  static const String permission = "Storage Permission will be required to show your videos, music and play it.";
+
+  static const String getUrl = 'https://app.mbinfotechs.com/api/b/com.videoplayer.allformatplayer.hd.video.player';
+  static const String postUrl = 'https://app.mbinfotechs.com/api/d';
+}
